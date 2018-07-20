@@ -1,7 +1,8 @@
 # CryptoZombies
+<img src="zombie.png" width="100" align="left">
 This project serves as an introduction to Solidity programming language in a game based environment. 
 The final contract interacts with existing contract of `CryptoKitties` and supports multiple users. 
-<img src="zombie.png" width="100" align="left">
+
 
 
 ## Using Pre-Built Contracts
